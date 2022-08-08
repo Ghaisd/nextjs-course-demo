@@ -1,3 +1,3 @@
 # nextjs-course-demo
-Next.js COurse
+Next.js Course
 Deployed to: https://g-nextjs-course-demo.vercel.app/
